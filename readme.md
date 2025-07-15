@@ -12,6 +12,7 @@ pip install dotenv requests fastapi uvicorn sqlalchemy alembic python-jose[crypt
 <h3>add OPENAI_API_KEY as secret </h3>
 go to "secrets" screen in replit and add 
 
+
 ```
 OPENAI_API_KEY=openai key
 
